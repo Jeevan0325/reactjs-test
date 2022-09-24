@@ -1,0 +1,23 @@
+.contact{
+    margin-top: -22px;
+    height: 90vh;
+    background-image: 
+        linear-gradient(to right bottom,
+                        rgba(126, 213, 111, 0.753),
+                        rgba(40, 79, 131, 0.778) ),
+        url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8bjR63eJ8ExQbuTxz_DjaQJX4QtIdsBLKqt7LN2IjLfE8FsxWdHw7rZmpjtaew8M9Xk&usqp=CAU' );
+        background-size: cover;
+        background-position: top; 
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+.contact h1{
+    margin-left: 500px;
+    padding-top: 100px;
+    color: #c948cb;
+    text-transform: uppercase;
+}
+.contact h2{
+    margin-left: 600px;
+    margin-top: 50px;
+    color:whitesmoke;
+}

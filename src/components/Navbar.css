@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: 
+        linear-gradient(to right bottom,
+                      rgb(126, 213, 111),
+                      rgb(40, 99, 131) );
+    height: 80px;
+}
+.header img{
+    width: auto;
+    height: 70px;
+    border-radius: 100%;
+}
+.header span{
+    color: white;
+    font-size: large;
+    font-weight:bolder;
+    text-transform: uppercase;
+}

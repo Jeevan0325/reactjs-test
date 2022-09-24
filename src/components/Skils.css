@@ -1,0 +1,23 @@
+.skils{
+    margin-top: -22px;
+    height: 100vh;
+    background-image: 
+        linear-gradient(to right bottom,
+                      rgba(126, 213, 111, 0.753),
+                      rgba(40, 79, 131, 0.778) ),
+        url('https://www.resumego.net/wp-content/uploads/soft-hard-skills.png' );
+        background-size: cover;
+        background-position: top; 
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+.skils h1{
+    margin-left: 500px;
+    padding-top: 50px;
+    color: #c948cb;
+    text-transform: uppercase;
+}
+.skils h2{
+    margin-left: 600px;
+    margin-top: 50px;
+    color:whitesmoke;
+}
